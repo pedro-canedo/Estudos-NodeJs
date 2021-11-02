@@ -11,19 +11,21 @@
     "type": "git",
     "url": "git+https://github.com/juunegreiros/nodejs-api-rest.git"
   },
-  "author": "Pedro",
+  "author": "juliana negreiros",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pedro-canedo/Estudos-NodeJs/issues"
+    "url": "https://github.com/juunegreiros/nodejs-api-rest/issues"
   },
-  "homepage": "https://github.com/pedro-canedo/Estudos-NodeJs#readme",
+  "homepage": "https://github.com/juunegreiros/nodejs-api-rest#readme",
   "dependencies": {
+    "await": "^0.2.6",
+    "axios": "^0.24.0",
     "consign": "^0.1.6",
     "express": "^4.17.1",
-    "moment": "^2.29.1",
+    "moment": "^2.24.0",
     "mysql": "^2.17.1"
   },
   "devDependencies": {
-    "nodemon": "^1.19.2"
+    "nodemon": "^1.19.4"
   }
 }
